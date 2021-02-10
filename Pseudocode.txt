@@ -10,13 +10,13 @@ Print (K) Lingkaran
 
 2. Menghitung Grade
 
-STORE "GRADE" with value 0-100
+STORE "NILAI" with value 0-100
 
-IF "GRADE" >= 80
+IF "NILAI" >= 80
     PRINT "GRADE A"
-ELSE IF "GRADE" >= 73
+ELSE IF "NILAI" >= 73
     PRINT "GRADE B"
-IF "GRADE" >= 60
+IF "NILAI" >= 60
     PRINT "GRADE C"
 ELSE IF
     PRINT "FAILED"
