@@ -1,0 +1,11 @@
+1. Algoritma Luas_Keliling_Lingkaran
+Deklarasi variabel const phi= 3.14, jari-jari (r), Luas (L) dan Keliling (K)
+Input 3.14 (phi)
+Input nilai jari-jari (r)
+Proses hitung Luas (L)  Lingkaran (phi*r*r)
+Proses hitung Keliling (K) Lingkaran (2*phi*r)
+Print Luas (L) Lingkaran
+Print (K) Lingkaran
+
+
+
