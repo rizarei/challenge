@@ -8,4 +8,15 @@ Print Luas (L) Lingkaran
 Print (K) Lingkaran
 
 
+2. Menghitung Grade
 
+STORE "GRADE" with value 0-100
+
+WHILE "GRADE" >= 80
+    PRINT "GRADE A"
+ELSE IF "GRADE" >= 73
+    PRINT "GRADE B"
+ELSE IF "GRADE" >= 60
+    PRINT "GRADE C"
+ELSE
+    PRINT "FAILED"
