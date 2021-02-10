@@ -12,11 +12,11 @@ Print (K) Lingkaran
 
 STORE "GRADE" with value 0-100
 
-WHILE "GRADE" >= 80
+IF "GRADE" >= 80
     PRINT "GRADE A"
-ELSE IF "GRADE" >= 73
+ELSE "GRADE" >= 73
     PRINT "GRADE B"
-ELSE IF "GRADE" >= 60
+IF "GRADE" >= 60
     PRINT "GRADE C"
 ELSE
     PRINT "FAILED"
